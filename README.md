@@ -8,8 +8,7 @@ Basic:
 Additional:
 1) Sequence must be unique by NCBI Blastnt.
 2) Conserved (from exons that are in all alternative splicing variants)
-3) Sequence length is approximately 79 nt . (can be shorter)
-4) The sequence must not form a stable secondary structure according to mfold - Quikfold (with Energy rules: RNA 4.0).
+3) The sequence must not form a stable secondary structure according to mfold - Quikfold (with Energy rules: RNA 4.0).
 
 # Idea of Searching
 <img src="images/process.png" height="700">
@@ -20,3 +19,6 @@ Additional:
 3. Run all blocks in sequence.
 4. You will get file **list_markers.fa** with all markers. You can upload this one to NCBI blastnt for
 finding the uniq marker.
+
+# Video manual
+https://youtu.be/PRGQTKMdYFg
